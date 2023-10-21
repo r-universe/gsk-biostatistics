@@ -5,3 +5,6 @@
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/gsk-biostatistics/tfrmt
+[submodule "tfrmtbuilder"]
+	path = tfrmtbuilder
+	url = https://github.com/gsk-biostatistics/tfrmtbuilder
