@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "beastt"]
+	path = beastt
+	url = https://github.com/gsk-biostatistics/beastt
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/gsk-biostatistics/tfrmt
