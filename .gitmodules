@@ -5,6 +5,9 @@
 [submodule "beastt"]
 	path = beastt
 	url = https://github.com/gsk-biostatistics/beastt
+[submodule "cicalc"]
+	path = cicalc
+	url = https://github.com/gsk-biostatistics/cicalc
 [submodule "hassediagrams"]
 	path = hassediagrams
 	url = https://github.com/gsk-biostatistics/hassediagrams
