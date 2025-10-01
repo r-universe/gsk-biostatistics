@@ -8,6 +8,9 @@
 [submodule "cicalc"]
 	path = cicalc
 	url = https://github.com/gsk-biostatistics/cicalc
+[submodule "docorator"]
+	path = docorator
+	url = https://github.com/gsk-biostatistics/docorator
 [submodule "hassediagrams"]
 	path = hassediagrams
 	url = https://github.com/gsk-biostatistics/hassediagrams
