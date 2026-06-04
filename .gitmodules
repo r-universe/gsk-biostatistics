@@ -14,6 +14,9 @@
 [submodule "hassediagrams"]
 	path = hassediagrams
 	url = https://github.com/gsk-biostatistics/hassediagrams
+[submodule "polish"]
+	path = polish
+	url = https://github.com/gsk-biostatistics/polish
 [submodule "repfun"]
 	path = repfun
 	url = https://github.com/gsk-biostatistics/repfun
