@@ -1,5 +1,11 @@
 [
   {
+    "package": "cards",
+    "url": "https://github.com/insightsengineering/cards",
+    "via": ["tfrmt"],
+    "from": "tfrmt"
+  },
+  {
     "package": "polish",
     "url": "https://github.com/GSK-Biostatistics/polish",
     "via": ["docorator"],
