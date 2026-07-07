@@ -24,6 +24,9 @@
 [submodule "repfun"]
 	path = repfun
 	url = https://github.com/gsk-biostatistics/repfun
+[submodule "shrinkr"]
+	path = shrinkr
+	url = https://github.com/gsk-biostatistics/shrinkr
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/gsk-biostatistics/tfrmt
