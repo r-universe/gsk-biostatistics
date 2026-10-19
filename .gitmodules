@@ -18,6 +18,9 @@
 [submodule "hassediagrams"]
 	path = hassediagrams
 	url = https://github.com/gsk-biostatistics/hassediagrams
+[submodule "multigrain"]
+	path = multigrain
+	url = https://github.com/gsk-biostatistics/multigrain
 [submodule "polish"]
 	path = polish
 	url = https://github.com/gsk-biostatistics/polish
