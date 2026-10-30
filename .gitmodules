@@ -24,6 +24,9 @@
 [submodule "polish"]
 	path = polish
 	url = https://github.com/gsk-biostatistics/polish
+[submodule "powerup"]
+	path = powerup
+	url = https://github.com/gsk-biostatistics/powerup
 [submodule "repfun"]
 	path = repfun
 	url = https://github.com/gsk-biostatistics/repfun
